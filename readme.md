@@ -1,4 +1,4 @@
-# Spiffing CSS
+# Spiffing CSS - AUT Edition
 
 Why, hello, dear visitor! If you're the kind of person predisposed to converse about the weather over a round of tea and crumpets, then you'll appreciate Spiffing: a CSS preprocessor with only one job — to correct the spelling errors prevalent in the language.
 

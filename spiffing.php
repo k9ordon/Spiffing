@@ -41,14 +41,14 @@
 		 */
 		public $dictionary 		= array(
 			// Queen's English	// Primitive English from our stateside friends from across the pond.
-			'colour'		=> 'color',
-			'grey'			=> 'gray',
-			'!please'		=> '!important',
-			'transparency'		=> 'opacity',
-			'centre'		=> 'center',
-			'plump'			=> 'bold',
-			'photograph'		=> 'image',
-			'capitalise'		=> 'capitalize'
+			'foab'		=> 'color',
+			'grau'			=> 'gray',
+			'!oida'		=> '!important',
+			'durchsichtig'		=> 'opacity',
+			'mittn'		=> 'center',
+			'fett'			=> 'bold',
+			'buedl'		=> 'image',
+			'oisgross'		=> 'capitalize'
 		);
 		/*
 		 * The 'fail gracefully' variable allows the user to load the 'NOT FOUND' header if, well, nothing is found.
